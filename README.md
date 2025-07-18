@@ -17,10 +17,19 @@ This is a simple React project showcasing reusable components such as **Button**
 
 ---
 
-## 🛠️ Installation
 
-1. Clone the repository:
+## 🛠️ Technologies Used
+
+- React.js
+- React Router DOM
+- Tailwind CSS
+- Vite
+
+## ▶️ Getting Started
+
+### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/react-buttons-demo.git
-cd react-buttons-demo
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+
